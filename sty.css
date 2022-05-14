@@ -1,0 +1,136 @@
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  background-color: #ffffff;
+  text-align: center;
+}
+img {
+  width: 40%;
+}
+.cloud {
+  width: 20%;
+  position: absolute;
+  left: 290px;
+  top: 8px;
+}
+.cloud2 {
+  width: 20%;
+  position: absolute;
+  right: 280px;
+  top: 8px;
+}
+.text {
+  width: 20%;
+
+  margin: auto;
+}
+h2 {
+  color: rgba(35, 185, 35, 0.966);
+}
+.Web_Developer {
+  font-family: "Macondo", cursive;
+  color: rgba(35, 185, 35, 0.966);
+  font-weight: bold;
+}
+h1 {
+  color: #66bfbf;
+  display: block;
+  font-family: "Koulen", cursive;
+  font-size: 300%;
+}
+h3 {
+  color: #ff1100;
+}
+p {
+  font-size: 19px;
+}
+.Profile {
+  display: block;
+  margin: auto;
+}
+hr {
+  width: 20%;
+  border-top: 5px dotted;
+  color: black;
+  text-decoration: none;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.Skills {
+  display: block;
+  margin: auto;
+  margin-bottom: 100px;
+  width: 50%;
+  text-align: left;
+}
+.Code {
+  width: 100px;
+  height: 90px;
+  float: left;
+  margin-right: 10px;
+}
+.Profile_Image {
+  height: 10%;
+  width: 10%;
+}
+.Lower_Content {
+  background-color: #FFE59D;
+}
+.Footer {
+  font-size: small;
+  font-family: sans-serif;
+  background-color: #ede6db;
+  margin: 0;
+}
+.Anchor {
+  display: inline-block;
+  margin-top: 1%;
+  color: #f045a9;
+  margin-right: 10px;
+  font-size: 110%;
+  text-decoration: none;
+}
+
+.Name {
+  margin-bottom: 64px;
+  font-size: 300%;
+}
+.Football {
+  width: 25%;
+  float: right;
+  margin: auto;
+}
+.Code_para {
+  width: 95%;
+  margin: auto;
+}
+.myButton {
+  background-color: #44c767;
+  border-radius: 42px;
+  border: 3px solid #18ab29;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17px;
+  padding: 17px 19px;
+  text-decoration: none;
+  text-shadow: 1px 1px 0px #2f6627;
+  margin-bottom: 1%;
+}
+.myButton:hover {
+  background-color: #5cbf2a;
+}
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+.Copyright {
+  font-size: 80%;
+  margin-bottom: 10px;
+}
+.Anchor:hover {
+  color: rgb(247, 19, 19);
+}
